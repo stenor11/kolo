@@ -1,5 +1,5 @@
 #!/bin/bash
 
-./echo "Hello word"
+echo "Hello word"
 
 exit 0
